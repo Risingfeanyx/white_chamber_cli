@@ -1,6 +1,6 @@
 
 A fan-made text port of 
- <a href="https://www.studiotrophis.com/site/projects/thewhitechamber ">The White Chamber</a>
+ <a href="https://www.studiotrophis.com/site/projects/thewhitechamber" target="_blank">The White Chamber</a>
 
 <h1>Installation</h1>
 
