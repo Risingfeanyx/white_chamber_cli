@@ -11,3 +11,5 @@ sh game.sh
 Update for 2020-07-01
 uploaded;completed room one
 
+
+https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY
