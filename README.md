@@ -12,6 +12,8 @@ A fan-made text port of
 
 Update for 2020-07-01
 uploaded;completed room one
+ <a href="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY">Progress so far</a>
+
 Will implement a debug mode both to track progress quickly, and stay true to the original; as it had its own debug room
 
 Audio is uncompressed (for now), and both references local media or youtube-dl to save download times
