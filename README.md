@@ -1,8 +1,8 @@
 
+A fan-made text port of 
+ <a href="https://www.studiotrophis.com/site/projects/thewhitechamber ">The White Chamber</a>
 
-# white_chamber_cli
-A fan-made text port of https://www.studiotrophis.com/site/projects/thewhitechamber 
-
+<h1>Installation</h1>
 git clone https://github.com/Risingfeanyx/white_chamber_cli ; 
 cd white_chamber_cli ; 
 sh game.sh
@@ -14,6 +14,5 @@ sh game.sh
 
 Update for 2020-07-01
 uploaded;completed room one
-
-
-https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY
+Will implement a debug mode both to track progress quickly, and stay true to the original; as it had its own debug room
+Audio is uncompressed (for now), and both references local media or youtube-dl to save download times
