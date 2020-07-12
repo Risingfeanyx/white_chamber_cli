@@ -13,10 +13,9 @@ A fan-made text port of
 Update for 2020-07-01
 uploaded;completed room one
  <a href="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY">Progress so far</a>
-
-[![asciicast](https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY.svg)](https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY)
-
- <a href="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY" target="_blank"><img src="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY.svg" /></a>
+ 
+ 
+<script id="asciicast-6f9Drooq00LNn48KkU0oKV0fY" src="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY.js" async></script>
 
 Will implement a debug mode both to track progress quickly, and stay true to the original; as it had its own debug room
 
