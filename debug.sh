@@ -20,7 +20,7 @@ two(){
         pause
 }
 three(){
-        room_2_station.sh
+        sh levels/room_2_station.sh
         pause
 }
 
