@@ -16,8 +16,7 @@ uploaded;completed room one
  
  
  ![](output.gif)
-<a href="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY" target="_blank"><img src="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY.svg" /></a>
-
+ 
 Will implement a debug mode both to track progress quickly, and stay true to the original; as it had its own debug room
 
 Audio is uncompressed (for now), and both references local media or youtube-dl to save download times
