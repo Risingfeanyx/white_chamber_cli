@@ -15,6 +15,7 @@ uploaded;completed room one
  <a href="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY">Progress so far</a>
  
  
+ ![](output.gif)
 <a href="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY" target="_blank"><img src="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY.svg" /></a>
 
 Will implement a debug mode both to track progress quickly, and stay true to the original; as it had its own debug room
