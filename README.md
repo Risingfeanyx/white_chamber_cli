@@ -12,7 +12,6 @@ A fan-made text port of
 
 Update for 2020-07-01
 uploaded;completed room one
- <a href="https://asciinema.org/a/6f9Drooq00LNn48KkU0oKV0fY">Progress so far</a>
  
  
  ![](output.gif)
