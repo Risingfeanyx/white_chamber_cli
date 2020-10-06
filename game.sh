@@ -1,10 +1,4 @@
 #!/bin/bash
-red=$'\e[1;31m'
-grn=$'\e[1;32m'
-blu=$'\e[1;34m'
-mag=$'\e[1;35m'
-cyn=$'\e[1;36m'
-white=$'\e[0m'
 #DT=$(date '+%Y-%m-%dT')&&tar -cf "the_white_chamber_cli.${DT}.tar.gz" *
 #backup current state of game
 clear ; echo "
